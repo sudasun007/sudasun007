@@ -47,7 +47,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: [sudheera.sudheeradasun007@gmail.com](mailto:sudheeradasun007@gmail.com)  
-- 🔗 LinkedIn: [Sudheera Deshapriya](linkedin.com/in/sudheera-deshapriya-abb0012b8)  
+- 🔗 LinkedIn: [Sudheera Deshapriya](linkedin.com/in/sudheera-deshapriya-abb0012b8](https://www.linkedin.com/in/sudheera-deshapriya-abb0012b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVPFyboHOQvGrzRTCuZ%2BpGQ%3D%3D))  
 - 🌐 Portfolio: [sudasun007.github.io](https://sudasun007.github.io)
 
 ---
@@ -57,7 +57,7 @@
   <a href="https://github.com/sudasun007">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[linkedin.com/in/sudheera-deshapriya-abb0012b8)">
+  <a href="[linkedin.com/in/sudheera-deshapriya-abb0012b8](https://www.linkedin.com/in/sudheera-deshapriya-abb0012b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVPFyboHOQvGrzRTCuZ%2BpGQ%3D%3D))">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/sudheeradeshapriya">
