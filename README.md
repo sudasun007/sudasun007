@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **Undergraduate Student** in Computer Science at [University Name].  
+- 🎓 **Undergraduate Student** in Information Technology at Rajarata University of Sri Lanka.  
 - 🌱 **Currently Exploring:** Android Development, Flask, MySQL, and Video Analysis.  
 - 💼 **Passionate About:** Building robust mobile applications, AI-driven solutions, and backend APIs.  
 - 🎯 **Goals for 2024:** Enhance expertise in video processing and AI, contribute to open-source projects, and build impactful mobile solutions.  
