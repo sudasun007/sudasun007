@@ -18,8 +18,10 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudasun007&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudasun007&theme=radical" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudasun007&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
+
 
 ---
 
